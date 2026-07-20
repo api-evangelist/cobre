@@ -1,0 +1,44 @@
+generated: '2026-07-18'
+method: searched
+source: https://docs.cobre.com/authentication-1886552m0
+docs: https://docs.cobre.com/authentication-1886552m0
+summary:
+  types: [http-bearer, token-exchange]
+  api_key_in: [body]
+  oauth2_flows: [clientCredentials]
+  notes: >-
+    Cobre uses a credential-for-token exchange. The client posts long-lived
+    credentials to the auth endpoint and receives a short-lived JWT access
+    token that is then sent as a Bearer token on every API call. Cobre's
+    security page describes this as an OAuth 2.0 / JWT model; the developer
+    auth guide documents it as a credentials (user_id + secret) exchange.
+schemes:
+  - name: token-exchange
+    type: token-exchange
+    description: >-
+      POST credentials (user_id + secret; QA uses client_id + client_secret)
+      to the auth endpoint to obtain an access_token.
+    token_endpoint: /v1/auth
+    request_fields: [user_id, secret]
+    response_fields: [access_token, type, expiration_time]
+    token_type: Bearer
+    token_format: JWT
+    token_ttl_seconds: 1200
+    sources: [docs]
+  - name: bearerAuth
+    type: http
+    scheme: bearer
+    bearerFormat: JWT
+    in: header
+    header: Authorization
+    description: >-
+      Send the access_token from /v1/auth as `Authorization: Bearer <token>`
+      on all subsequent requests. Tokens expire after 1200 seconds (20 min);
+      the docs recommend caching and refreshing just-in-time with a 60-120s
+      safety window and a mutex lock to avoid concurrent refreshes.
+    sources: [docs]
+guidance:
+  - Store credentials in a secure vault; never expose in plain text.
+  - Rotate API secrets periodically (docs recommend monthly).
+  - Configure API IP whitelisting where available.
+  - QA credentials (client_id/client_secret) are requested from your Account Manager.
