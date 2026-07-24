@@ -1,0 +1,40 @@
+generated: '2026-07-18'
+method: searched
+source: https://docs.cobre.com/security-at-cobre-1737320m0
+docs: https://docs.cobre.com/security-at-cobre-1737320m0
+standards:
+  - id: oauth2
+    conforms: true
+    evidence: Cobre security page describes API access via OAuth 2.0 / JWT tokens.
+  - id: soc2-type-ii
+    conforms: true
+    evidence: 'Named on the Security at Cobre page: SOC 2 Type II.'
+  - id: iso-27001
+    conforms: true
+    evidence: 'Named on the Security at Cobre page: ISO/IEC 27001:2022.'
+  - id: pci-dss
+    conforms: true
+    version: 4.0.1
+    evidence: 'Named on the Security at Cobre page: PCI DSS v4.0.1.'
+  - id: tls-1.3
+    conforms: true
+    evidence: Encryption in transit uses TLS 1.3.
+  - id: aes-256
+    conforms: true
+    evidence: Encryption at rest uses AES-256.
+  - id: rfc9457-problem-details
+    conforms: false
+    evidence: Errors use a custom {error_code, error_description} envelope, not problem+json.
+  - id: idempotency
+    conforms: true
+    evidence: Idempotency header required on money-movement POSTs (see conventions/).
+  - id: webhooks-hmac
+    conforms: true
+    evidence: Webhook notifications signed with HMAC-SHA256 (event-signature header).
+regulatory:
+  - jurisdiction: Colombia
+    note: Complies with local financial regulator requirements (SPE/PSE/Bre-B rails).
+  - jurisdiction: Mexico
+    note: Complies with local financial regulator requirements (SPEI/CLABE rails).
+compliance_program: https://docs.cobre.com/security-at-cobre-1737320m0
+certifications: [SOC 2 Type II, ISO/IEC 27001:2022, PCI DSS v4.0.1]

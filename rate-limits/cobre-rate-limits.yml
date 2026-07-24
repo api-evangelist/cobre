@@ -1,0 +1,19 @@
+generated: '2026-07-18'
+method: searched
+source: https://docs.cobre.com/quick-start-1886551m0
+docs: https://docs.cobre.com/quick-start-1886551m0
+rate_limits:
+  - scope: global
+    steady_state_tps: 30
+    limit_count: 30
+    period: second
+    burst: 200
+    algorithm: token-bucket
+    refill_per_second: 30
+    over_limit_status: 429
+    over_limit_error: Too Many Requests
+    notes: >-
+      Cobre supports 30 transactions per second (TPS) under steady-state
+      operation, with a burst limit of 200 requests implemented via a token
+      bucket that refills at 30 tokens per second. Exceeding the limit returns
+      HTTP 429 (Too Many Requests).

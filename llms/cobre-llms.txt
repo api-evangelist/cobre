@@ -1,0 +1,427 @@
+# Title
+
+## Docs
+- Cobre Intro [Welcome](https://docs.cobre.com/welcome-1737313m0.md): 
+- Cobre Intro [Get started](https://docs.cobre.com/get-started-1737317m0.md): 
+- Cobre Intro [Connect Cobre's Documentation to AI](https://docs.cobre.com/connect-cobres-documentation-to-ai-1982404m0.md): 
+- Cobre Intro > Products > Local Payments [Local Payments with Cobre](https://docs.cobre.com/local-payments-with-cobre-1859025m0.md): 
+- Cobre Intro > Products > Local Payments > Payouts > Colombia [Money Movements with Bre-B](https://docs.cobre.com/money-movements-with-bre-b-1759479m0.md): 
+- Cobre Intro > Products > Local Payments > Payouts > Colombia [Money Movements with Cobre Fast Pay](https://docs.cobre.com/money-movements-with-cobre-fast-pay-1759480m0.md): 
+- Cobre Intro > Products > Local Payments > Payouts > Mexico [Money Movements with CLABEs and SPEI Cards](https://docs.cobre.com/money-movements-with-clabes-and-spei-cards-1759484m0.md): 
+- Cobre Intro > Products > Local Payments > Payouts > United States [Money Movements with Fedwire](https://docs.cobre.com/money-movements-with-fedwire-2134871m0.md): 
+- Cobre Intro > Products > Local Payments > Payouts > Multi-region [Money Movements Scheduler](https://docs.cobre.com/money-movements-scheduler-1759487m0.md): 
+- Cobre Intro > Products > Local Payments > Payins > Colombia [Checkout](https://docs.cobre.com/checkout-1759469m0.md): 
+- Cobre Intro > Products > Local Payments > Payins > Colombia [Request to Pay (R2P)](https://docs.cobre.com/request-to-pay-r2p-1867936m0.md): 
+- Cobre Intro > Products > Local Payments > Payins > Colombia [Direct Debit with Nequi](https://docs.cobre.com/direct-debit-with-nequi-1867937m0.md): 
+- Cobre Intro > Products > Local Payments > Payins > Colombia [Static Bre-B Keys](https://docs.cobre.com/static-bre-b-keys-1860055m0.md): 
+- Cobre Intro > Products > Local Payments > Payins > Colombia [Transfer-In](https://docs.cobre.com/transfer-in-2117492m0.md): 
+- Cobre Intro > Products > Local Payments > Payins > México [Request to Pay (R2P)](https://docs.cobre.com/request-to-pay-r2p-1992186m0.md): 
+- Cobre Intro > Products > Local Payments > Payins > México [CLABE-backed Virtual Balances Accounts (Cobre Balances)](https://docs.cobre.com/clabe-backed-virtual-balances-accounts-cobre-balances-1889781m0.md): 
+- Cobre Intro > Products > Local Payments > Payins > México [Virtual CLABEs](https://docs.cobre.com/virtual-clabes-1759471m0.md): 
+- Cobre Intro > Products > Local Payments > Payins > United States [Fedwire Payins at Cobre](https://docs.cobre.com/fedwire-payins-at-cobre-2210787m0.md): 
+- Cobre Intro > Products > Local Payments > Other feaures [Bulk Money Movements](https://docs.cobre.com/bulk-money-movements-1759486m0.md): 
+- Cobre Intro > Products > Local Payments > Other feaures [Enabling Approval Workflows (Maker–Checker)](https://docs.cobre.com/enabling-approval-workflows-makerchecker-1874035m0.md): 
+- Cobre Intro > Products > Local Payments > Other feaures [Named Accounts in Mexico](https://docs.cobre.com/named-accounts-in-mexico-2225470m0.md): 
+- Cobre Intro > Products > Cross Border Payments [Cross Border Payments with Cobre](https://docs.cobre.com/cross-border-payments-with-cobre-1859026m0.md): 
+- Cobre Intro > Products > Stablecoins [Global Payouts in Stablecoins](https://docs.cobre.com/global-payouts-in-stablecoins-1908658m0.md): 
+- Cobre Intro > Products > Connect [Connect bank accounts with Cobre](https://docs.cobre.com/connect-bank-accounts-with-cobre-1859028m0.md): 
+- Cobre Intro > Other features [Account Verification](https://docs.cobre.com/account-verification-1908619m0.md): 
+- Cobre Intro > Other features [Notifications and subscriptions](https://docs.cobre.com/notifications-and-subscriptions-1759508m0.md): 
+- Cobre Intro > Other features [Security at Cobre](https://docs.cobre.com/security-at-cobre-1737320m0.md): 
+- Cobre Intro > Other features [Performance and throughput](https://docs.cobre.com/performance-and-throughput-1874115m0.md): 
+- Cobre Intro > Using Cobre [Bre-B Payouts with Payment Instruments of Your Ecosystem](https://docs.cobre.com/bre-b-payouts-with-payment-instruments-of-your-ecosystem-1759510m0.md): 
+- Cobre Intro > Using Cobre [Cobre for Lenders](https://docs.cobre.com/cobre-for-lenders-1911133m0.md): 
+- Cobre Intro > Using Cobre [Integrating Cobre from ERPs](https://docs.cobre.com/integrating-cobre-from-erps-1965027m0.md): 
+- Portal [Introduction & Quick Start](https://docs.cobre.com/introduction-quick-start-1886535m0.md): 
+- Portal [Authentication in Portal](https://docs.cobre.com/authentication-in-portal-1886536m0.md): 
+- Portal [Troubleshooting & Support](https://docs.cobre.com/troubleshooting-support-1886537m0.md): 
+- Portal > Movements [Approval Process (Maker-Checker)](https://docs.cobre.com/approval-process-maker-checker-1886538m0.md): 
+- Portal > Movements [Local Money Movement](https://docs.cobre.com/local-money-movement-1886539m0.md): 
+- Portal > Movements [Unitary Payment Initiation](https://docs.cobre.com/unitary-payment-initiation-1886540m0.md): 
+- Portal > Movements [Bulk Money Movement Initiation](https://docs.cobre.com/bulk-money-movement-initiation-1886541m0.md): 
+- Portal > Movements [Cross-Border Money Movements](https://docs.cobre.com/cross-border-money-movements-1886542m0.md): 
+- Portal > Movements [Scheduler](https://docs.cobre.com/scheduler-1889940m0.md): 
+- Portal > Movements [Payment Links](https://docs.cobre.com/payment-links-1886544m0.md): 
+- Portal > Transactions [Transactions](https://docs.cobre.com/transactions-1889955m0.md): 
+- Portal > Accounts [Account and Balance Management](https://docs.cobre.com/account-and-balance-management-1886545m0.md): 
+- Portal > Accounts > Account References [Virtual CLABEs](https://docs.cobre.com/virtual-clabes-1965813m0.md): 
+- Portal > Accounts > Account References [Transfer Accounts (Transfer-In)](https://docs.cobre.com/transfer-accounts-transfer-in-2117607m0.md): 
+- Portal > Counterparties [Counterparties](https://docs.cobre.com/counterparties-1886546m0.md): 
+- Portal > Reports [Reports & Reconciliation](https://docs.cobre.com/reports-reconciliation-1886547m0.md): 
+- Portal > Settings [Users and Roles Management](https://docs.cobre.com/users-and-roles-management-1886548m0.md): 
+- Portal > Settings [Security and Control](https://docs.cobre.com/security-and-control-1886549m0.md): 
+- Portal > Developers [Subscription management](https://docs.cobre.com/subscription-management-1886550m0.md): 
+- Developers > API Guides [Quick Start](https://docs.cobre.com/quick-start-1886551m0.md): 
+- Developers > API Guides [Authentication](https://docs.cobre.com/authentication-1886552m0.md): 
+- Developers > API Guides > Cobre Balances [Managing Virtual Balance Accounts (Cobre Balances)](https://docs.cobre.com/managing-virtual-balance-accounts-cobre-balances-1886553m0.md): 
+- Developers > API Guides > Cobre Balances [Account Linkeage](https://docs.cobre.com/account-linkeage-1886554m0.md): 
+- Developers > API Guides > Cobre Balances [Named Accounts (MX)](https://docs.cobre.com/named-accounts-mx-2240375m0.md): 
+- Developers > API Guides > Connect Accounts [Managing Connect Accounts](https://docs.cobre.com/managing-connect-accounts-1886555m0.md): 
+- Developers > API Guides > Counterparties [Managing Counterparties](https://docs.cobre.com/managing-counterparties-1886556m0.md): 
+- Developers > API Guides > Local Payments [Money Movement](https://docs.cobre.com/money-movement-1899651m0.md): 
+- Developers > API Guides > Local Payments > Payouts > Colombia [Fast Pay & ACH](https://docs.cobre.com/fast-pay-ach-1886561m0.md): 
+- Developers > API Guides > Local Payments > Payouts > Colombia [Bre-B](https://docs.cobre.com/bre-b-1886562m0.md): 
+- Developers > API Guides > Local Payments > Payouts > Mexico [SPEI](https://docs.cobre.com/spei-1886563m0.md): 
+- Developers > API Guides > Local Payments > Payouts > United States [Fedwire Payouts](https://docs.cobre.com/fedwire-payouts-2135400m0.md): 
+- Developers > API Guides > Local Payments > Payouts > Global [Global payouts in stable](https://docs.cobre.com/global-payouts-in-stable-2053445m0.md): 
+- Developers > API Guides > Local Payments > Payouts > Cross-Region [Money Movements Approval](https://docs.cobre.com/money-movements-approval-2237109m0.md): 
+- Developers > API Guides > Local Payments > Payouts > Cross-Region [Bulk Money Movements](https://docs.cobre.com/bulk-money-movements-1886564m0.md): 
+- Developers > API Guides > Local Payments > Payouts > Cross-Region [Bulk Money Movements Approval](https://docs.cobre.com/bulk-money-movements-approval-1899688m0.md): 
+- Developers > API Guides > Local Payments > Payouts > Cross-Region [Money Movement Scheduler](https://docs.cobre.com/money-movement-scheduler-1886565m0.md): 
+- Developers > API Guides > Local Payments > Payins > Colombia [Cobre Keys with Bre-B](https://docs.cobre.com/cobre-keys-with-bre-b-1886558m0.md): 
+- Developers > API Guides > Local Payments > Payins > Colombia [Checkout](https://docs.cobre.com/checkout-1886557m0.md): 
+- Developers > API Guides > Local Payments > Payins > Colombia [Direct Link](https://docs.cobre.com/direct-link-1886559m0.md): 
+- Developers > API Guides > Local Payments > Payins > Colombia [Direct Debit](https://docs.cobre.com/direct-debit-1914109m0.md): 
+- Developers > API Guides > Local Payments > Payins > Colombia [Transfer-In](https://docs.cobre.com/transfer-in-2117611m0.md): 
+- Developers > API Guides > Local Payments > Payins > Colombia [Processing Refunds in Colombia](https://docs.cobre.com/processing-refunds-in-colombia-2202209m0.md): 
+- Developers > API Guides > Local Payments > Payins > Mexico [Account Reference – Virtual CLABEs](https://docs.cobre.com/account-reference-virtual-clabes-1886560m0.md): 
+- Developers > API Guides > Local Payments > Payins > Mexico [Direct Link](https://docs.cobre.com/direct-link-1992193m0.md): 
+- Developers > API Guides > Local Payments > Payins > Mexico [Processing Refunds in Mexico](https://docs.cobre.com/processing-refunds-in-mexico-2202241m0.md): 
+- Developers > API Guides > Local Payments > Payins > United States [Fedwire Payins](https://docs.cobre.com/fedwire-payins-2210805m0.md): 
+- Developers > API Guides > Cross Border Payments [Cross Border Payments](https://docs.cobre.com/cross-border-payments-1886566m0.md): 
+- Developers > API Guides > Cross Border Payments [Create Fx Quotes](https://docs.cobre.com/create-fx-quotes-1886567m0.md): 
+- Developers > API Guides > Cross Border Payments [Create a Cross Boder Money Movement](https://docs.cobre.com/create-a-cross-boder-money-movement-1886568m0.md): 
+- Developers > API Guides > Cross Border Payments [Fund your global Cobre Balance](https://docs.cobre.com/fund-your-global-cobre-balance-1886569m0.md): 
+- Developers > API Guides > Cross Features [Account Verification](https://docs.cobre.com/account-verification-1886570m0.md): 
+- Developers > API Guides > Cross Features [Reconciliation with Cobre Reports in Colombia](https://docs.cobre.com/reconciliation-with-cobre-reports-in-colombia-1908673m0.md): 
+- Developers > API Guides > Cross Features [Reports](https://docs.cobre.com/reports-1886571m0.md): 
+- Developers > API Guides > Cross Features [Report Scheduler](https://docs.cobre.com/report-scheduler-1886573m0.md): 
+- Developers > API Guides > Cross Features [Evidence API](https://docs.cobre.com/evidence-api-1886574m0.md): 
+- Developers > API Guides > Cross Features [Notifications & Subscriptions](https://docs.cobre.com/notifications-subscriptions-1886572m0.md): 
+- Developers > API Guides > Cross Features [FX Alerts](https://docs.cobre.com/fx-alerts-1968149m0.md): 
+- Developers > API Guides > Testing [General Testing](https://docs.cobre.com/general-testing-1886578m0.md): 
+- Developers > API Guides > Testing [Testing Cases](https://docs.cobre.com/testing-cases-1886579m0.md): 
+- Developers > API Guides > Testing [Testing PSE and Bancolombia](https://docs.cobre.com/testing-pse-and-bancolombia-1920864m0.md): 
+- Developers > API Guides > Certification [Certification Process](https://docs.cobre.com/certification-process-2047778m0.md): 
+- Developers > API Guides > Certification [Questionnaire](https://docs.cobre.com/questionnaire-2047804m0.md): 
+- Developers > API Explorer [Build with AI](https://docs.cobre.com/build-with-ai-1982911m0.md): 
+- Developers > Platform Catalogs [Colombian Bank Codes](https://docs.cobre.com/colombian-bank-codes-1886581m0.md): 
+- Developers > Platform Catalogs [Mexican Bank Codes](https://docs.cobre.com/mexican-bank-codes-1886580m0.md): 
+- Developers > Platform Catalogs [Account Providers](https://docs.cobre.com/account-providers-1886583m0.md): 
+- Developers > Platform Catalogs [Transaction Types](https://docs.cobre.com/transaction-types-1886582m0.md): 
+- Developers > Platform Catalogs [Money Movement Statuses](https://docs.cobre.com/money-movement-statuses-2032280m0.md): 
+- Developers > Platform Catalogs [Error Dictionary](https://docs.cobre.com/error-dictionary-1886577m0.md): 
+- Developers > Testing APIs [Create a Transaction Adjustment](https://docs.cobre.com/create-a-transaction-adjustment-1886752m0.md): 
+- Developers > Testing APIs [Change a Money Movement Status](https://docs.cobre.com/change-a-money-movement-status-1886753m0.md): 
+- Developers > Reports Layout > Money Movements Layout [All Money Movements (CSV)](https://docs.cobre.com/all-money-movements-csv-1886584m0.md): 
+- Developers > Reports Layout > Money Movements Layout [All Money Movements (JSON)](https://docs.cobre.com/all-money-movements-json-1886585m0.md): 
+- Developers > Reports Layout > Money Movements Layout [SPEI Money Movements (CSV)](https://docs.cobre.com/spei-money-movements-csv-1886586m0.md): 
+- Developers > Reports Layout > Money Movements Layout [LEGACY Money Movements (CSV)](https://docs.cobre.com/legacy-money-movements-csv-1886587m0.md): 
+- Developers > Reports Layout > Transactions Layout [All Transactions (CSV)](https://docs.cobre.com/all-transactions-csv-1886588m0.md): 
+- Developers > Reports Layout > Transactions Layout [All Transactions (JSON)](https://docs.cobre.com/all-transactions-json-1886589m0.md): 
+- Developers > Reports Layout > Transactions Layout [Virtual Balance Account (Cobre Balance) Statement (PDF)](https://docs.cobre.com/virtual-balance-account-cobre-balance-statement-pdf-1886590m0.md): 
+- Developers > Reports Layout > Counterparties Layout [All Counterparties (CSV)](https://docs.cobre.com/all-counterparties-csv-1886591m0.md): 
+- Developers > Reports Layout > Multicash Layout [Multicash Header (TXT)](https://docs.cobre.com/multicash-header-txt-1886592m0.md): 
+- Developers > Reports Layout > Multicash Layout [Multicash Detail (TXT)](https://docs.cobre.com/multicash-detail-txt-1886593m0.md): 
+- Developers > Notifications Layout > Account Events [Account Balance Debit](https://docs.cobre.com/account-balance-debit-1921894m0.md): 
+- Developers > Notifications Layout > Account Events [Account Balance Credit](https://docs.cobre.com/account-balance-credit-1921889m0.md): 
+- Developers > Notifications Layout > Cobre Keys [Cobre Keys](https://docs.cobre.com/cobre-keys-1921898m0.md): 
+- Developers > Notifications Layout > Counterparties [Counterparties](https://docs.cobre.com/counterparties-2043395m0.md): 
+- Developers > Notifications Layout > Counterparties [Direct Debit Registration](https://docs.cobre.com/direct-debit-registration-2244399m0.md): 
+- Developers > Notifications Layout > Money Movement [Money Movement](https://docs.cobre.com/money-movement-1921909m0.md): 
+- Developers > Notifications Layout > Bulk Money Movement [Bulk Money Movement](https://docs.cobre.com/bulk-money-movement-1923574m0.md): 
+- Developers > Notifications Layout > Cross Border Money Movement [Cross Border Money Movement](https://docs.cobre.com/cross-border-money-movement-1923576m0.md): 
+- Developers > Notifications Layout > Evidence Requests [Evidence Requests](https://docs.cobre.com/evidence-requests-1923580m0.md): 
+- Developers > Notifications Layout > Reports [Reports](https://docs.cobre.com/reports-1923582m0.md): 
+- Developers > Notifications Layout > Alerts [FX Alerts](https://docs.cobre.com/fx-alerts-2091781m0.md): 
+- Developers > Notifications Layout > Account References [Account References](https://docs.cobre.com/account-references-2136504m0.md): 
+- Developers > Notifications Layout > Subclients [Subclients](https://docs.cobre.com/subclients-2240763m0.md): 
+
+## API Docs
+- Developers > API Explorer > Authentication [Authentication](https://docs.cobre.com/authentication-25933208e0.md): Use this endpoint to generate the access credentials required to call any Cobre API. Exchange your API credentials for a short-lived token, then pass it in the Authorization header on every subsequent request to ensure secure and consistent access across environments.
+- Developers > API Explorer > Accounts [Create or Connect an Account](https://docs.cobre.com/create-or-connect-an-account-25933209e0.md): This endpoint is the single entry point for registering any account on Cobre. The behavior is driven by the `action` field in the request body:
+- Developers > API Explorer > Accounts [Obtain all Accounts](https://docs.cobre.com/obtain-all-accounts-25933210e0.md): Retrieve a full list of Cobre Balances (Virtual Balances, Virtual Balance Accounts)  and Connect Accounts available to your organization for operational visibility and reconciliation. Use pagination and filters to efficiently sync balances into your internal systems, especially when running reporting or monitoring workflows.
+- Developers > API Explorer > Accounts [Obtain one Account](https://docs.cobre.com/obtain-one-account-25933211e0.md): Retrieve a single Cobre Balance (Virtual Balance, Virtual Balance Account) or Connect Account by its identifier to validate configuration, inspect status, or confirm details prior to executing sensitive actions such as money movements or counterparty linkage.
+- Developers > API Explorer > Accounts [Update an Account](https://docs.cobre.com/update-an-account-25933212e0.md): This endpoint allows Cobre Platform users to update an existing Cobre Balance (Virtual Balance, Virtual Balance Account) or Connect Account. It facilitates modifying the information of a previously created account within our ecosystem, ensuring consistency and control in balances and accounts management.
+- Developers > API Explorer > Accounts [Close a Cobre Balance](https://docs.cobre.com/close-a-cobre-balance-25933214e0.md): This endpoint close a Cobre Balance (Virtual Account Balances) in Mexico. 
+- Developers > API Explorer > Accounts [Obtain one Account Transactions](https://docs.cobre.com/obtain-one-account-transactions-25933215e0.md): This endpoint allows you to retrieve all transactions for a given Cobre Balance (Virtual Balance, Virtual Balance Account) or Connect Account. A transaction reflects a movement (credit or debit) that has occurred in your account. 
+- Developers > API Explorer > Accounts [Obtain one Transaction](https://docs.cobre.com/obtain-one-transaction-25933216e0.md): This endpoint allows you to retrieve one specific transaction from any of the Cobre Balances (Virtual Balances, Virtual Balances Accounts) or Connect Accounts. A transaction reflects a movement (credit or debit) that has occurred in your account. 
+- Developers > API Explorer > Accounts [Obtain all Transactions](https://docs.cobre.com/obtain-all-transactions-25933213e0.md): This endpoint allows you to retrieve all transactions from all Cobre Balances (Virtual Balance, Virtual Balance Account) and Connect Accounts. A transaction reflects a movement (credit or debit) that has occurred in your account. 
+- Developers > API Explorer > Accounts [Obtain Account Daily Balance History](https://docs.cobre.com/obtain-account-daily-balance-history-25933217e0.md): This endpoint allows users to retrieve the **historical balance** of a **Virtual Balance account (Cobre Balance)**.
+- Developers > API Explorer > Accounts [Assign or Change Primary Account](https://docs.cobre.com/assign-or-change-primary-account-25933218e0.md): This enpoint allows assigning or changing a primary account to an existing Cobre Balance (Virtual Balance or Virtual Balance Account). 
+- Developers > API Explorer > Accounts [Unlinking Primary Account](https://docs.cobre.com/unlinking-primary-account-25933219e0.md): This enpoint allows unlinking a primary account from a secondary account. 
+- Developers > API Explorer > Account Verifications [Create an Account Verification](https://docs.cobre.com/create-an-account-verification-25933220e0.md): Account verification consists of comparing the information entered by the user against the data registered at financial institutions.
+- Developers > API Explorer > Account Verifications [Obtain one Account Verification](https://docs.cobre.com/obtain-one-account-verification-27088943e0.md): This endpoint returns all account verifications requested.
+- Developers > API Explorer > Account Verifications [Obtain all Account Verifications](https://docs.cobre.com/obtain-all-account-verifications-25933221e0.md): This endpoint returns all account verifications requested.
+- Developers > API Explorer > Account References [Create an Account Reference](https://docs.cobre.com/create-an-account-reference-26104719e0.md): This enpoint allows the creation of account references. 
+- Developers > API Explorer > Account References [List one Account Reference](https://docs.cobre.com/list-one-account-reference-26105126e0.md): This endpoint retrieves one specific Account Reference.
+- Developers > API Explorer > Account References [List all Account References](https://docs.cobre.com/list-all-account-references-26105105e0.md): This endpoint retrieves all Account References.
+- Developers > API Explorer > Account References [Delete an Account Reference](https://docs.cobre.com/delete-an-account-reference-26105166e0.md): This endpoint deletes an Account Reference.
+- Developers > API Explorer > Account References [Generate a Certificate for your Account Reference](https://docs.cobre.com/generate-a-certificate-for-your-account-reference-34569214e0.md): Generate a PDF certificate that includes all the information needed by your payers to initiate a transfer to your account references, along with a legal text that lets your payers know the role of Cobre as your collection provider.
+- Developers > API Explorer > Cobre Keys [Create a Key](https://docs.cobre.com/create-a-key-25933247e0.md): This endpoint allows the creation of Cobre keys, which will then be assigned a key_value. This value will be registered in the key management and in the Bre-B platform.
+- Developers > API Explorer > Cobre Keys [Obtain all Keys](https://docs.cobre.com/obtain-all-keys-25933248e0.md): This endpoint **returns all keys** associated with the client's Cobre Balance accounts.
+- Developers > API Explorer > Cobre Keys [Obtain one Key](https://docs.cobre.com/obtain-one-key-25933249e0.md): This endpoint **returns one specific key** associated with the client's Cobre Balance account.
+- Developers > API Explorer > Cobre Keys [Cancel a Key](https://docs.cobre.com/cancel-a-key-25933250e0.md): This endpoint allows the **cancellation** of a Cobre key.
+- Developers > API Explorer > Cobre Keys [Block or Reactivate Keys](https://docs.cobre.com/block-or-reactivate-keys-25933251e0.md): This endpoint **allows actions** to be performed on a Cobre key.
+- Developers > API Explorer > Counterparties > Account Debit Registration [Register a Counterparty for Direct Debit](https://docs.cobre.com/register-a-counterparty-for-direct-debit-25933233e0.md): ## Direct Debit Registration API
+- Developers > API Explorer > Counterparties > Account Debit Registration [Obtain all Registrations](https://docs.cobre.com/obtain-all-registrations-25933234e0.md): This endpoint will list all your accounts that have been registered into a counterparty.
+- Developers > API Explorer > Counterparties > Account Debit Registration [Obtain one Registration](https://docs.cobre.com/obtain-one-registration-25933235e0.md): Retrieve the debit registration given the id.
+- Developers > API Explorer > Counterparties [Create a Counterparty](https://docs.cobre.com/create-a-counterparty-25933229e0.md): This API allows the creation of counterparties.
+- Developers > API Explorer > Counterparties [Obtain one Counterparty](https://docs.cobre.com/obtain-one-counterparty-25933230e0.md): This endpoint retrieve a specific counterparty.
+- Developers > API Explorer > Counterparties [Obtain all Counterparties](https://docs.cobre.com/obtain-all-counterparties-25933231e0.md): This endpoint retrieve all counterparties.
+- Developers > API Explorer > Counterparties [Delete a Counterparty](https://docs.cobre.com/delete-a-counterparty-25933232e0.md): This endpoint will allow you to delete a specific counterparty within the platform.
+- Developers > API Explorer > Money Movements [Create a Money Movement](https://docs.cobre.com/create-a-money-movement-25933236e0.md): This endpoint simplifies the initiation of money movement operations. To initiate a movement, only four parameters are necessary: `source`, `destination`, `metadata`, and `amount`. For enhanced tracking, an optional fifth parameter, `external_id`, can be provided.
+- Developers > API Explorer > Money Movements [Obtain one Money Movement](https://docs.cobre.com/obtain-one-money-movement-25933237e0.md): This endpoint retrieves full details of a specific money movement
+- Developers > API Explorer > Money Movements [Obtain all Money Movements](https://docs.cobre.com/obtain-all-money-movements-25933238e0.md): This endpoint retrieves all the money movement details in the platform.
+- Developers > API Explorer > Money Movements [Return a Money Movement](https://docs.cobre.com/return-a-money-movement-25933239e0.md): The Money Movement Return API allows you to return any given credit transaction within the supported providers and transaction types. For the moment is only available in Mexico.
+- Developers > API Explorer > Money Movement Approvals [Approve a Money Movement](https://docs.cobre.com/approve-a-money-movement-25933262e0.md): This endpoint allows you to approve a [Money Movement](apidog://link/endpoint/25933236) that has been sent for approval by activating the `checker_approval` flag.
+- Developers > API Explorer > Money Movement Approvals [List all Money Movement Approvals](https://docs.cobre.com/list-all-money-movement-approvals-25933263e0.md): This endpoint will list all the money movements that have been sent for approval. 
+- Developers > API Explorer > Money Movement Scheduler [Create a Money Movement Scheduler](https://docs.cobre.com/create-a-money-movement-scheduler-25933240e0.md): This endpoint create a recurring or delayed money movement for automated payout workflows.
+- Developers > API Explorer > Money Movement Scheduler [List all Money Movement Schedulers](https://docs.cobre.com/list-all-money-movement-schedulers-25933241e0.md): This endpoint retrieves a list of schedulers, providing a historical record of all automated or planned money movements within the system. Each entry includes details such as the scheduled date, status, amount, origin and destination accounts, and any relevant metadata associated with the scehduled movement. 
+- Developers > API Explorer > Money Movement Scheduler [Cancel an Active Scheduler](https://docs.cobre.com/cancel-an-active-scheduler-25933242e0.md): This endpoint allows the deactivation of an active money movement scheduler.
+- Developers > API Explorer > Bulk Money Movement [Create a Bulk Money Movement](https://docs.cobre.com/create-a-bulk-money-movement-25933243e0.md): This endpoint allows the platform to handle bulk payments efficiently by processing multiple money movements from a single file upload.
+- Developers > API Explorer > Bulk Money Movement [List all Bulk Money Movements](https://docs.cobre.com/list-all-bulk-money-movements-25933245e0.md): The endpoint will return a list of bulk money movements processed within the platform, with details such as the unique ID, input file name, status, total number of money movements, and timestamps.
+- Developers > API Explorer > Bulk Money Movement [List one Bulk Money Movement](https://docs.cobre.com/list-one-bulk-money-movement-25933244e0.md): This endpoint retrieves the details of a specific bulk money movement, including the unique ID, input file name, status, total number of money movements, decision, and relevant timestamps.
+- Developers > API Explorer > Bulk Money Movement Approvals [Bulk Money Movements Decision](https://docs.cobre.com/bulk-money-movements-decision-25933246e0.md): This endpoint allows the platform to make a decision on a previously created bulk money movement where the checker_approval flag within the header has been set to true.
+- Developers > API Explorer > Cross Border [Create a FX Quote](https://docs.cobre.com/create-a-fx-quote-25933252e0.md): This API allows you to obtain quotes between a pair of currencies. To receive a quote, simply provide the currency pair and the amount you wish to exchange in your request. The API will return the resulting amount and a detailed breakdown of the associated fees.
+- Developers > API Explorer > Cross Border [Obtain one FX Quote](https://docs.cobre.com/obtain-one-fx-quote-25933253e0.md): This API will return a specific quote created by the client.
+- Developers > API Explorer > Cross Border [Obtain all the FX Quotes](https://docs.cobre.com/obtain-all-the-fx-quotes-25933254e0.md): This API will list the history of the requested quotes.
+- Developers > API Explorer > Cross Border [Create a Cross Border Money Movement](https://docs.cobre.com/create-a-cross-border-money-movement-25933255e0.md): This endpoint allows you to initiate a cross-border money money movement.
+- Developers > API Explorer > Cross Border [Obtain one Cross Border Money Movement](https://docs.cobre.com/obtain-one-cross-border-money-movement-25933256e0.md): This API will retrieve a specific cross-border money movement.
+- Developers > API Explorer > Cross Border [Obtain all the Cross Border Money Movements](https://docs.cobre.com/obtain-all-the-cross-border-money-movements-25933257e0.md): This API will list the history of all the created cross border money movements.
+- Developers > API Explorer > Checkout [Create a Checkout](https://docs.cobre.com/create-a-checkout-25933258e0.md): This API allows to create hosted checkout experience with payment links that can be shared with counterparties or payers, allowing them to pay directly into your specified account or Cobre balance.
+- Developers > API Explorer > Checkout [Obtain one Checkout](https://docs.cobre.com/obtain-one-checkout-25933259e0.md): Retrieve detailed information about a specific checkout, including its current status and associated details.
+- Developers > API Explorer > Checkout [Obtain all Checkouts](https://docs.cobre.com/obtain-all-checkouts-25933260e0.md): Retrieve a paginated list of all checkout records.
+- Developers > API Explorer > Checkout [Desactivate a Checkout](https://docs.cobre.com/desactivate-a-checkout-25933261e0.md): This method allows yo to deactivate an active Checkout.
+- Developers > API Explorer > Evidence > Evidence Requests [Obtain Evidence Request](https://docs.cobre.com/obtain-evidence-request-25933264e0.md): This endpoint is your gateway to detailed insights about a specific evidence request. Once you’ve identified a request from the list or received its ID via webhook, you can use this call to retrieve all associated information in one place.
+- Developers > API Explorer > Evidence > Evidence Requests [Search Evidence Requests](https://docs.cobre.com/search-evidence-requests-25933265e0.md): This endpoint offers the ability to search and manage evidence requests. It provides a clear view of all requests created for your clients, ensuring that no pending action is overlooked.
+- Developers > API Explorer > Evidence > Evidence Documents [Generate Upload Links](https://docs.cobre.com/generate-upload-links-25933266e0.md): This endpoint allows you to generate upload links for evidence documents associated with a request.
+- Developers > API Explorer > Evidence > Evidence Documents [Generate Download Link](https://docs.cobre.com/generate-download-link-25933267e0.md): This endpoint allows authorized systems to safely retrieve evidence documents once they’ve been submitted. By generating a secure, short-lived download link, it ensures that sensitive data remains protected while still being accessible for compliance review.
+- Developers > API Explorer > Evidence > Evidence Information [Submit Evidence Information](https://docs.cobre.com/submit-evidence-information-25933268e0.md): Complete the `evidence_request` submitting additional context, reject attachments and providing `evidence_information` items for an existing `evidence_request`.
+- Developers > API Explorer > Reports [Create a Report](https://docs.cobre.com/create-a-report-25933272e0.md): Endpoint to be used to generate reports under demand. 
+- Developers > API Explorer > Reports [Obtain all Reports](https://docs.cobre.com/obtain-all-reports-25933273e0.md): This endpoint will return all the reports that have been created in the platform.
+- Developers > API Explorer > Reports [Generate Download Link for Selected Reports](https://docs.cobre.com/generate-download-link-for-selected-reports-25933274e0.md): Endpoint to generate a download link for the requested reports. Only existing reports will be added within the downloadable zip file.
+- Developers > API Explorer > Reports [Create a Cobre Balance Statement](https://docs.cobre.com/create-a-cobre-balance-statement-25933275e0.md): 
+- Developers > API Explorer > Report Scheduler [Create a Report Scheduler](https://docs.cobre.com/create-a-report-scheduler-25933269e0.md): Endpoint to be used to generate report schedulers under demand.
+- Developers > API Explorer > Report Scheduler [Obtain all Reports Schedulers](https://docs.cobre.com/obtain-all-reports-schedulers-25933270e0.md): This endpoint will return all the reports that have been created in the platform.
+- Developers > API Explorer > Report Scheduler [Delete a Report Scheduler](https://docs.cobre.com/delete-a-report-scheduler-25933271e0.md): This method allows the deactivation of an active report scheduler.
+- Developers > API Explorer > Notifications & Subscriptions [Subscribe to Events](https://docs.cobre.com/subscribe-to-events-25933276e0.md): This endpoint allows the creation of a subscription to events and the location where notifications must be sent.
+- Developers > API Explorer > Notifications & Subscriptions [Obtain all Subscriptions](https://docs.cobre.com/obtain-all-subscriptions-25933277e0.md): This endpoint will return a list of all the active subscriptions that have been created.
+- Developers > API Explorer > Notifications & Subscriptions [Delete a Subscription](https://docs.cobre.com/delete-a-subscription-25933278e0.md): Delete an existing subscription. 
+- Developers > API Explorer > Notifications & Subscriptions [List all Available Events](https://docs.cobre.com/list-all-available-events-25933279e0.md): This endpoint will list of subscribable events that you can subscribe to in order to start receiving notifications.
+- Developers > API Explorer > Alerts [Create Alert](https://docs.cobre.com/create-alert-28431523e0.md): This API allows you to create FX rate monitoring alerts for specific currency pairs. To create an alert, simply provide the currency pair, condition type (above, below, or within_range), rate thresholds, and expiration date. The API will return the created alert object with a unique identifier and active status.
+- Developers > API Explorer > Alerts [Obtain All Alerts](https://docs.cobre.com/obtain-all-alerts-28431859e0.md): This API allows you to retrieve all FX rate alerts associated with your account. The endpoint returns a paginated list of alerts including both active and inactive alerts. Each alert object contains its configuration, status, thresholds, and audit trail.
+- Developers > API Explorer > Alerts [Obtain One Alert](https://docs.cobre.com/obtain-one-alert-33424148e0.md): This API allows you to retrieve detailed information about a specific FX rate alert using its unique identifier. The endpoint returns the complete alert object including configuration, current status, thresholds, and timestamps.
+- Developers > API Explorer > Alerts [Deactivate An Alert](https://docs.cobre.com/deactivate-an-alert-28431912e0.md): This API allows you to deactivate an FX rate alert by setting its status to inactive. This is a soft-delete operation - the alert remains in the system for audit purposes but will no longer trigger notifications. The `active_status` field changes to `false` and the `updated_at` timestamp is updated.
+- Developers > API Explorer > Subclients [Create a Subclient](https://docs.cobre.com/create-a-subclient-39330962e0.md): >🚧 **Named Accounts is coming soon.** This feature is currently under development and not yet available. Stay tuned — we'll update this page as soon as it's released. In the meantime, feel free to reach out to your Key Account Manager if you have any questions.
+- Developers > API Explorer > Subclients [Obtain all Subclients](https://docs.cobre.com/obtain-all-subclients-39331204e0.md): > 🚧 **Named Accounts is coming soon.** This feature is currently under development and not yet available. Stay tuned — we'll update this page as soon as it's released. In the meantime, feel free to reach out to your Key Account Manager if you have any questions.
+- Developers > API Explorer > Subclients [Obtain one Subclient](https://docs.cobre.com/obtain-one-subclient-39331218e0.md): > 🚧 **Named Accounts is coming soon.** This feature is currently under development and not yet available. Stay tuned — we'll update this page as soon as it's released. In the meantime, feel free to reach out to your Key Account Manager if you have any questions.
+- Developers > Testing APIs [Transaction Adjustment (QA)](https://docs.cobre.com/transaction-adjustment-qa-25933280e0.md): 
+- Developers > Testing APIs [Change Money Movement Status (QA)](https://docs.cobre.com/change-money-movement-status-qa-25933281e0.md): 
+
+## Schemas
+- Counterparties > Colombia > PayOut [col_type_cobre_balance_request](https://docs.cobre.com/counterparty-create-metadata-type-cobre-balance-co-11817747d0.md): 
+- Counterparties > Colombia > PayOut [col_type_cobre_balance_response](https://docs.cobre.com/counterparty-response-metadata-type-cobre-balance-co-11817748d0.md): 
+- Counterparties > Colombia > PayOut [col_type_breb_key_request](https://docs.cobre.com/counterparty-create-metadata-type-breb-key-co-11817745d0.md): 
+- Counterparties > Colombia > PayOut [col_type_breb_key_response](https://docs.cobre.com/counterparty-response-metadata-type-breb-key-co-11817746d0.md): 
+- Counterparties > Colombia > PayOut [col_type_breb_qr_request](https://docs.cobre.com/counterparty-create-metadata-type-qr-co-13081983d0.md): 
+- Counterparties > Colombia > PayOut [col_type_breb_qr_response](https://docs.cobre.com/counterparty-response-metadata-type-qr-co-13081985d0.md): 
+- Counterparties > Colombia > PayOut [col_type_cc_request](https://docs.cobre.com/counterparty-create-metadata-type-cc-co-11817739d0.md): 
+- Counterparties > Colombia > PayOut [col_type_cc_response](https://docs.cobre.com/counterparty-response-metadata-type-cc-co-11817740d0.md): 
+- Counterparties > Colombia > PayOut [col_type_ch_request](https://docs.cobre.com/counterparty-create-metadata-type-ch-co-11817741d0.md): 
+- Counterparties > Colombia > PayOut [col_type_ch_response](https://docs.cobre.com/counterparty-response-metadata-type-ch-co-11817742d0.md): 
+- Counterparties > Colombia > PayOut [col_type_dp_request](https://docs.cobre.com/counterparty-create-metadata-type-dp-co-11817743d0.md): 
+- Counterparties > Colombia > PayOut [col_type_dp_response](https://docs.cobre.com/counterparty-response-metadata-type-dp-co-11817744d0.md): 
+- Counterparties > Colombia > PayIn [col_type_r2p_response](https://docs.cobre.com/counterparty-response-metadata-type-r2p-co-14064941d0.md): 
+- Counterparties > Colombia > PayIn [col_type_r2p_request](https://docs.cobre.com/counterparty-create-metadata-type-r2p-co-11817749d0.md): 
+- Counterparties > Colombia > PayIn [col_type_r2p_breb_request](https://docs.cobre.com/counterparty-create-metadata-type-r2p-breb-co-11817751d0.md): 
+- Counterparties > Colombia > PayIn [col_type_r2p_breb_response](https://docs.cobre.com/counterparty-response-metadata-type-r2p-breb-co-11817752d0.md): 
+- Counterparties > Colombia > Secondary Counterparty [secondary_counterparty_request](https://docs.cobre.com/secondary-counterparty-create-request-11817753d0.md): 
+- Counterparties > Colombia > Secondary Counterparty [secondary_counterparty_response](https://docs.cobre.com/secondary-counterparty-create-response-co-11817754d0.md): 
+- Counterparties > Colombia > Secondary Counterparty [secondary_cp_type_np_request](https://docs.cobre.com/secondary-counterparty-create-metadata-type-np-co-11817755d0.md): 
+- Counterparties > Colombia > Secondary Counterparty [secondary_cp_type_np_response](https://docs.cobre.com/secondary-counterparty-response-metadata-type-np-co-11817756d0.md): 
+- Counterparties > Colombia > Secondary Counterparty [secondary_cp_type_le_request](https://docs.cobre.com/secondary-counterparty-request-metadata-type-le-11817757d0.md): 
+- Counterparties > Colombia > Secondary Counterparty [secondary_cp_type_le_response](https://docs.cobre.com/secondary-counterparty-response-metadata-type-le-co-11817758d0.md): 
+- Counterparties > Colombia > Direct Debit [direct_debit_registration_request](https://docs.cobre.com/direct-debit-registration-create-11817759d0.md): 
+- Counterparties > Colombia > Direct Debit [direct_debit_registration_response](https://docs.cobre.com/direct-debit-registration-response-11817760d0.md): 
+- Counterparties > Colombia > Direct Debit [direct_debit_registration_list](https://docs.cobre.com/direct-debit-registration-list-all-items-11817761d0.md): 
+- Counterparties > Colombia [counterparty_request_colombia](https://docs.cobre.com/counterparty-create-request-co-11817737d0.md): 
+- Counterparties > Colombia [counterparty_response_colombia](https://docs.cobre.com/counterparty-create-response-co-11817738d0.md): 
+- Counterparties > Mexico > PayOut [mex_type_clabe_request](https://docs.cobre.com/counterparty-create-metadata-type-clabe-mx-11817764d0.md): 
+- Counterparties > Mexico > PayOut [mex_type_clabe_response](https://docs.cobre.com/counterparty-response-metadata-type-clabe-mx-11817765d0.md): 
+- Counterparties > Mexico > PayOut [mex_type_spei_card_request](https://docs.cobre.com/counterparty-create-metadata-type-spei-card-mx-11817766d0.md): 
+- Counterparties > Mexico > PayOut [mex_type_spei_card_response](https://docs.cobre.com/counterparty-response-metadata-type-spei-card-mx-11817767d0.md): 
+- Counterparties > Mexico > PayIn [mex_type_r2p_request](https://docs.cobre.com/counterparty-create-metadata-type-r2p-mx-13439916d0.md): 
+- Counterparties > Mexico > PayIn [mex_type_r2p_response](https://docs.cobre.com/counterparty-response-metadata-type-r2p-mx-11817750d0.md): 
+- Counterparties > Mexico [counterparty_response_mexico](https://docs.cobre.com/counterparty-create-response-mx-11817763d0.md): 
+- Counterparties > Mexico [counterparty_request_mexico](https://docs.cobre.com/counterparty-create-request-mx-11817762d0.md): 
+- Counterparties > Mexico [mexico_type_return_response](https://docs.cobre.com/counterparty-money-movement-return-mx-11817735d0.md): 
+- Counterparties > Global [counterparty_global_cp_request](https://docs.cobre.com/counterparty-global-cp-request-13135144d0.md): 
+- Counterparties > Global [counterparty_global_deposit_np_request](https://docs.cobre.com/counterparty-global-deposit-np-request-13135145d0.md): 
+- Counterparties > Global [counterparty_global_deposit_np_response](https://docs.cobre.com/counterparty-global-deposit-np-response-13135146d0.md): 
+- Counterparties > Global [counterparty_global_deposit_le_request](https://docs.cobre.com/counterparty-global-deposit-le-request-13135147d0.md): 
+- Counterparties > Global [counterparty_global_deposit_le_response](https://docs.cobre.com/counterparty-global-deposit-le-response-13135148d0.md): 
+- Counterparties > Global [counterparty_global_cp_response](https://docs.cobre.com/counterparty-global-cp-response-13135149d0.md): 
+- Counterparties > USA [counterparty_request_usa](https://docs.cobre.com/counterparty-create-request-usa-13016749d0.md): 
+- Counterparties > USA [counterparty_response_usa](https://docs.cobre.com/counterparty-create-response-usa-13016750d0.md): 
+- Counterparties > USA [counterparty_request_usa_metadata_business](https://docs.cobre.com/request-medatata-business-13015747d0.md): 
+- Counterparties > USA [counterparty_response_usa_metadata_business](https://docs.cobre.com/response-medatata-business-13016504d0.md): 
+- Counterparties > USA [counterparty_request_usa_metadata_individual](https://docs.cobre.com/request-medatata-individual-13016505d0.md): 
+- Counterparties > USA [counterparty_response_usa_metadata_individual](https://docs.cobre.com/response-medatata-individual-13016736d0.md): 
+- Counterparties > USA [counterparty_usa_request](https://docs.cobre.com/counterparty-create-request-usa-16115279d0.md): 
+- Counterparties > USA [counterparty_usa_response](https://docs.cobre.com/counterparty-create-response-usa-16115280d0.md): 
+- Counterparties [counterparty_list](https://docs.cobre.com/counterparty-list-all-items-11817734d0.md): 
+- Authentication [authentication_request](https://docs.cobre.com/authentication-request-11817798d0.md): 
+- Authentication [authentication_response](https://docs.cobre.com/authentication-response-11817799d0.md): 
+- Transactions > Global [cbmm_debit_transaction](https://docs.cobre.com/transaction-debit-cross-border-11817774d0.md): 
+- Transactions > Global [cbmm_credit_transaction](https://docs.cobre.com/transaction-credit-cross-border-11817775d0.md): 
+- Transactions > Colombia > Debit [colombian_fi_debit_transaction](https://docs.cobre.com/transaction-debit-fi-co-col-debit-11817779d0.md): 
+- Transactions > Colombia > Debit [cobre_balance_col_debit_transaction](https://docs.cobre.com/transaction-debit-cobre-balance-co-11817780d0.md): 
+- Transactions > Colombia > Debit [breb_debit_transaction](https://docs.cobre.com/transaction-debit-breb-co-breb-debit-11817781d0.md): 
+- Transactions > Colombia > Credit [direct_debit_credit_transaction](https://docs.cobre.com/transaction-credit-direct-debit-co-dd-credit-11817788d0.md): 
+- Transactions > Colombia > Credit [breb_rejected_transaction](https://docs.cobre.com/transaction-rejected-breb-breb-rejected-11817778d0.md): 
+- Transactions > Colombia > Credit [col_top_up_credit_transaction](https://docs.cobre.com/transaction-credit-top-up-co-col-top-up-credit-11817782d0.md): 
+- Transactions > Colombia > Credit [colombian_fi_credit_transaction](https://docs.cobre.com/transaction-credit-fi-co-col-credit-11817783d0.md): 
+- Transactions > Colombia > Credit [cobre_balance_col_credit_transaction](https://docs.cobre.com/transaction-credit-cobre-balance-co-col-cb-credit-11817784d0.md): 
+- Transactions > Colombia > Credit [r2p_credit_transaction](https://docs.cobre.com/transaction-credit-r2p-r2p-credit-11817786d0.md): 
+- Transactions > Colombia > Credit [breb_credit_transaction](https://docs.cobre.com/transaction-credit-breb-co-breb-credit-11817785d0.md): 
+- Transactions > Colombia > Credit [r2p_breb_credit_transaction](https://docs.cobre.com/transaction-credit-r2p-breb-co-r2p-breb-credit-11817787d0.md): 
+- Transactions > Colombia [connect_transaction_list_colombia](https://docs.cobre.com/transaction-connect-obtain-co-11817776d0.md): 
+- Transactions > Colombia [cobre_balance_transaction_list_colombia](https://docs.cobre.com/transaction-cobre-balance-obtain-co-11817777d0.md): 
+- Transactions > Mexico > Debit [mexico_fi_debit_transaction](https://docs.cobre.com/transaction-debit-fi-mx-mex-debit-11817792d0.md): 
+- Transactions > Mexico > Debit [spei_debit_transaction](https://docs.cobre.com/transaction-debit-spei-mx-spei-debit-11817793d0.md): 
+- Transactions > Mexico > Debit [internal_spei_debit_transaction](https://docs.cobre.com/transaction-debit-internal-spei-mx-11817794d0.md): 
+- Transactions > Mexico > Credit [mexico_fi_credit_transaction](https://docs.cobre.com/transaction-credit-fi-mx-11817795d0.md): 
+- Transactions > Mexico > Credit [spei_credit_transaction](https://docs.cobre.com/transaction-credit-spei-mx-11817796d0.md): 
+- Transactions > Mexico > Credit [internal_spei_credit_transaction](https://docs.cobre.com/transaction-credit-internal-spei-mx-11817797d0.md): 
+- Transactions > Mexico [connect_transaction_list_mexico](https://docs.cobre.com/transaction-connect-obtain-mx-11817789d0.md): 
+- Transactions > Mexico [spei_return_transaction](https://docs.cobre.com/transaction-return-spei-mx-11817791d0.md): 
+- Transactions > Mexico [cobre_balance_transaction_list_mexico](https://docs.cobre.com/transaction-cobre-balance-obtain-mx-11817790d0.md): 
+- Transactions [connect_list_of_transactions](https://docs.cobre.com/transactions-connect-list-all-items-11817768d0.md): 
+- Transactions [misc_debit_transaction](https://docs.cobre.com/transaction-debit-misc-11817770d0.md): 
+- Transactions [misc_credit_transaction](https://docs.cobre.com/transaction-credit-misc-11817771d0.md): 
+- Transactions [adjustment_debit_transaction](https://docs.cobre.com/transaction-adjustment-debit-11817772d0.md): 
+- Transactions [adjustment_credit_transaction](https://docs.cobre.com/transaction-adjustment-credit-11817773d0.md): 
+- Transactions [cobre_balance_list_of_transactions](https://docs.cobre.com/transactions-cobre-balance-list-all-items-11817769d0.md): 
+- Cobre Keys > Colombia [key_request](https://docs.cobre.com/cobre-key-create-request-11817800d0.md): 
+- Cobre Keys > Colombia [key_create_response](https://docs.cobre.com/cobre-key-create-response-11817801d0.md): 
+- Cobre Keys > Colombia [key_obtain_response](https://docs.cobre.com/cobre-key-obtain-response-11817802d0.md): 
+- Cobre Keys > Colombia [key_block_reactivate_request](https://docs.cobre.com/cobre-key-reactive-request-11817803d0.md): 
+- Money Movements > Approvals [request_mm_approvals](https://docs.cobre.com/money-movement-approvals-create-request-11817806d0.md): 
+- Money Movements > Approvals [response_mm_approvals](https://docs.cobre.com/money-movement-approvals-create-response-11817807d0.md): 
+- Money Movements > Approvals [list_money_movement_approvals](https://docs.cobre.com/money-movement-approvals-list-all-items-11817808d0.md): 
+- Money Movements > Mexico > PayOut [spei_request_meta](https://docs.cobre.com/money-movement-create-metadata-type-spei-11817809d0.md): 
+- Money Movements > Mexico > PayOut [spei_response_meta](https://docs.cobre.com/money-movement-response-metadata-type-spei-11817810d0.md): 
+- Money Movements > Mexico > Return [request_mm_return](https://docs.cobre.com/money-movement-return-create-request-11817811d0.md): 
+- Money Movements > Mexico > Return [spei_return_response_meta](https://docs.cobre.com/money-movement-return-response-medatada-type-spei-11817812d0.md): 
+- Money Movements > Mexico > Return [response_mm_return](https://docs.cobre.com/money-movement-return-create-response-11817813d0.md): 
+- Money Movements > Mexico > PayIn [r2p_direct_dynamic_clabes_request](https://docs.cobre.com/money-movement-direct-link-create-metadata-rail-r2p-spei-13233204d0.md): 
+- Money Movements > Mexico > PayIn [r2p_spei_checkout_and_direct_dynamic_clabes_response](https://docs.cobre.com/money-movement-direct-link-response-metadata-rail-r2p-spei-13233205d0.md): 
+- Money Movements > Colombia > PayOut [fast_pay_request](https://docs.cobre.com/money-movement-create-metadata-type-fast-pay-11817814d0.md): 
+- Money Movements > Colombia > PayOut [Money Movement | Response Metadata Type Bre-B](https://docs.cobre.com/money-movement-response-metadata-type-bre-b-16115281d0.md): 
+- Money Movements > Colombia > PayOut [breb_request](https://docs.cobre.com/money-movement-create-metadata-type-bre-b-11817818d0.md): 
+- Money Movements > Colombia > PayOut [fast_pay_response](https://docs.cobre.com/money-movement-response-metadata-type-fast-pay-11817815d0.md): 
+- Money Movements > Colombia > PayOut [ach_request](https://docs.cobre.com/money-movement-create-metadata-type-ach-11817816d0.md): 
+- Money Movements > Colombia > PayOut [ach_response](https://docs.cobre.com/money-movement-response-metadata-type-ach-11817817d0.md): 
+- Money Movements > Colombia > PayOut [breb_response](https://docs.cobre.com/money-movement-response-metadata-type-bre-b-11817819d0.md): 
+- Money Movements > Colombia > PayOut [breb_response_split](https://docs.cobre.com/money-movement-response-metadata-type-bre-b-split-14173760d0.md): 
+- Money Movements > Colombia > PayIn [r2p_direct_link_request_pse](https://docs.cobre.com/money-movement-direct-link-create-metadata-rail-pse-16115282d0.md): 
+- Money Movements > Colombia > PayIn [r2p_pse_checkout_and_direct_link_response](https://docs.cobre.com/money-movement-direct-link-response-metadata-rail-pse-11817821d0.md): 
+- Money Movements > Colombia > PayIn [r2p_breb_checkout_and_direct_dynamic_keys_response](https://docs.cobre.com/money-movement-direct-link-response-metadata-rail-r2p-breb-11817825d0.md): 
+- Money Movements > Colombia > PayIn [r2p_direct_link_request_r2p](https://docs.cobre.com/money-movement-direct-link-create-metadata-rail-r2p-11817820d0.md): 
+- Money Movements > Colombia > PayIn [r2p_bancolombia_checkout_and_direct_link_response](https://docs.cobre.com/money-movement-direct-link-response-metadata-rail-bancolombia-11817822d0.md): 
+- Money Movements > Colombia > PayIn [r2p_nequi_checkout_and_direct_link_response](https://docs.cobre.com/money-movement-direct-link-response-metadata-rail-nequi-11817823d0.md): 
+- Money Movements > Colombia > PayIn [r2p_direct_dynamic_keys_request](https://docs.cobre.com/money-movement-direct-link-create-metadata-rail-r2p-breb-11817824d0.md): 
+- Money Movements > Colombia > Direct Debit [direct_debit_request](https://docs.cobre.com/money-movement-direct-debit-create-metadata-11817826d0.md): 
+- Money Movements > Colombia > Direct Debit [direct_debit_response](https://docs.cobre.com/money-movement-direct-debit-response-metadata-11817827d0.md): 
+- Money Movements > Global > Payout in stable [global_stable_request](https://docs.cobre.com/money-movement-create-metadata-type-global-stable-13839102d0.md): 
+- Money Movements > Global > Payout in stable [global_stable_response](https://docs.cobre.com/money-movement-response-metadata-type-global-stable-13839103d0.md): 
+- Money Movements > United States > PayOut [fedwire_metadata_create_request](https://docs.cobre.com/money-movement-create-metadata-type-fedwire-15795261d0.md): 
+- Money Movements > United States > PayOut [fedwire_metadata_response](https://docs.cobre.com/money-movement-response-metadata-type-fedwire-15795386d0.md): 
+- Money Movements [money_movement_list_all_items](https://docs.cobre.com/money-movement-list-all-items-11817805d0.md): 
+- Money Movements [money_movement_response](https://docs.cobre.com/money-movement-create-response-11817804d0.md): 
+- Accounts > Account Verification > Mexico [verification_request_object_mex_acc_details](https://docs.cobre.com/account-verification-create-metadata-type-mex-acc-details-1-12019122d0.md): 
+- Accounts > Account Verification > Mexico [verification_response_object_acc_details](https://docs.cobre.com/account-verification-response-metadata-type-mex-acc-details-1-12019123d0.md): 
+- Accounts > Account Verification > Mexico [account_verificacion_request_mex_acc_ownership](https://docs.cobre.com/account-verification-create-request-11817828d0.md): 
+- Accounts > Account Verification > Mexico [verification_request_object_acc_ownership](https://docs.cobre.com/account-verification-create-metadata-type-mex-acc-ownership-1-11817830d0.md): 
+- Accounts > Account Verification > Mexico [verification_response_object_acc_ownership](https://docs.cobre.com/account-verification-response-metadata-type-mex-acc-ownership-1-11817831d0.md): 
+- Accounts > Account Verification > Colombia [verification_response_object_col_key_details](https://docs.cobre.com/account-verification-response-metadata-type-col-key-details-1-12019126d0.md): 
+- Accounts > Account Verification > Colombia [verification_request_object_col_key_details](https://docs.cobre.com/account-verification-create-metadata-type-col-key-details-1-12019125d0.md): 
+- Accounts > Account Verification > Colombia [verification_request_object_col_key_ownership](https://docs.cobre.com/account-verification-create-metadata-type-col-key-ownership-1-12019128d0.md): 
+- Accounts > Account Verification > Colombia [verification_response_object_col_key_ownership](https://docs.cobre.com/account-verification-response-metadata-type-col-key-ownership-1-12019142d0.md): 
+- Accounts > Account Verification > Colombia [verification_response_object_col_key_ownership_2](https://docs.cobre.com/account-verificacion-response-metadata-type-col-key-ownership-2-14173246d0.md): 
+- Accounts > Account Verification > Colombia [verification_request_object_col_key_ownership_2](https://docs.cobre.com/account-verification-create-metadata-type-col-key-ownership-2-14173224d0.md): 
+- Accounts > Account Verification [account_verificacion_response](https://docs.cobre.com/account-verification-create-response-11817829d0.md): 
+- Accounts > Account Verification [list_all_account_verifications](https://docs.cobre.com/account-verifications-list-all-items-11817832d0.md): 
+- Accounts > Account References [account_references_request](https://docs.cobre.com/account-references-request-11916857d0.md): 
+- Accounts > Account References [account_reference_response](https://docs.cobre.com/account-reference-response-11916971d0.md): 
+- Accounts > Account References [list_all_account_references](https://docs.cobre.com/list-all-account-references-11917007d0.md): 
+- Accounts > Account References [account_references_certificate_response](https://docs.cobre.com/account-reference-certificate-generation-response-14659534d0.md): 
+- Accounts > Daily Balance [daily_balance_response](https://docs.cobre.com/daily-balance-obtain-response-11817843d0.md): 
+- Accounts > Daily Balance [daily_balance_history_list](https://docs.cobre.com/daily-balance-historiy-list-all-items-11817844d0.md): 
+- Accounts > Cobre Balances and Connect Accounts > Mexico [create_cobre_balance_mexico](https://docs.cobre.com/cobre-balance-create-metadata-mx-11817837d0.md): 
+- Accounts > Cobre Balances and Connect Accounts > Mexico [connect_account_request_metadata_mexico](https://docs.cobre.com/connect-account-create-metadata-mx-11817847d0.md): 
+- Accounts > Cobre Balances and Connect Accounts > Mexico [connect_account_response_metadata_mexico](https://docs.cobre.com/connect-account-response-metadata-mx-11817848d0.md): 
+- Accounts > Cobre Balances and Connect Accounts > Mexico [mexico_cobre_balance_response](https://docs.cobre.com/cobre-balance-create-response-mx-11817838d0.md): 
+- Accounts > Cobre Balances and Connect Accounts > Colombia [create_cobre_balance_colombia](https://docs.cobre.com/cobre-balance-create-metadata-co-11817839d0.md): 
+- Accounts > Cobre Balances and Connect Accounts > Colombia [colombia_cobre_balance_response](https://docs.cobre.com/cobre-balance-create-response-co-11817840d0.md): 
+- Accounts > Cobre Balances and Connect Accounts > Colombia [connect_account_request_metadata_colombia](https://docs.cobre.com/connect-account-create-metadata-co-11817849d0.md): 
+- Accounts > Cobre Balances and Connect Accounts > Colombia [connect_account_response_metadata_colombia](https://docs.cobre.com/connect-account-response-metadata-co-11817850d0.md): 
+- Accounts > Cobre Balances and Connect Accounts > Global [create_cobre_balance_global](https://docs.cobre.com/cobre-balance-create-metadata-global-11817841d0.md): 
+- Accounts > Cobre Balances and Connect Accounts > Global [global_cobre_balance_response](https://docs.cobre.com/cobre-balance-create-response-global-11817842d0.md): 
+- Accounts > Cobre Balances and Connect Accounts > USA [create_cobre_balance_usa](https://docs.cobre.com/cobre-balance-create-metadata-usa-16246580d0.md): 
+- Accounts > Cobre Balances and Connect Accounts > USA [cobre_balance_usa_response](https://docs.cobre.com/cobre-balance-create-response-usa-16246395d0.md): 
+- Accounts > Cobre Balances and Connect Accounts [create_cobre_balance_request](https://docs.cobre.com/cobre-balance-create-request-11817833d0.md): 
+- Accounts > Cobre Balances and Connect Accounts [connect_account_request](https://docs.cobre.com/connect-account-create-request-11817845d0.md): 
+- Accounts > Cobre Balances and Connect Accounts [list_all_accounts](https://docs.cobre.com/accounts-list-all-items-11817834d0.md): 
+- Accounts > Cobre Balances and Connect Accounts [account_request_patch](https://docs.cobre.com/account-update-request-11817835d0.md): 
+- Bulk Money Movement [bulk_money_movement_response](https://docs.cobre.com/bulk-money-movement-obtain-response-11817851d0.md): 
+- Bulk Money Movement [bulk_money_movement_request_decision](https://docs.cobre.com/bulk-money-movement-decision-create-request-11817852d0.md): 
+- Bulk Money Movement [list_all_bulk_money_movement](https://docs.cobre.com/bulk-money-movements-list-all-items-11817853d0.md): 
+- Money Movement Scheduler [request_money_movement_scheduler](https://docs.cobre.com/money-movement-scheduler-create-request-11817854d0.md): 
+- Money Movement Scheduler [response_money_movement_scheduler](https://docs.cobre.com/money-movement-scheduler-create-response-11817855d0.md): 
+- Money Movement Scheduler [list_all_money_movement_scheduler](https://docs.cobre.com/money-movement-scheduler-list-all-items-11817856d0.md): 
+- Checkout > Colombia [request_checkout](https://docs.cobre.com/checkout-create-request-11817857d0.md): 
+- Checkout > Colombia [response_checkout](https://docs.cobre.com/checkout-create-response-11817858d0.md): 
+- Checkout > Colombia [list_checkout](https://docs.cobre.com/checkout-list-all-items-11817859d0.md): 
+- Checkout > Colombia [response_delete_checkout](https://docs.cobre.com/checkout-delete-11817860d0.md): 
+- Notifications [subscription_request](https://docs.cobre.com/subscription-create-request-11817861d0.md): 
+- Notifications [subscription_response](https://docs.cobre.com/subscription-create-response-11817862d0.md): 
+- Notifications [list_response](https://docs.cobre.com/subscription-list-all-items-11817863d0.md): 
+- Notifications [list_subscribable_events](https://docs.cobre.com/subscribable-events-list-all-items-11817864d0.md): 
+- Notifications [subscribable_events_response](https://docs.cobre.com/subscribable-events-metadata-11817865d0.md): 
+- Evidence Request > Schemas [error](https://docs.cobre.com/error-11817866d0.md): 
+- Evidence Request > Schemas [evidence_request](https://docs.cobre.com/evidence-request-11817867d0.md): 
+- Evidence Request > Schemas [document_type](https://docs.cobre.com/document-type-11817868d0.md): 
+- Evidence Request > Schemas [evidence_id](https://docs.cobre.com/evidence-id-11817869d0.md): 
+- Evidence Request > Schemas [upload_intent](https://docs.cobre.com/upload-intent-11817870d0.md): 
+- Evidence Request > Schemas [evidence_request_id](https://docs.cobre.com/evidence-request-id-11817871d0.md): 
+- Evidence Request > Schemas [evidence_request_status](https://docs.cobre.com/evidence-request-status-11817872d0.md): 
+- Evidence Request > Schemas [information_type](https://docs.cobre.com/information-type-11817873d0.md): 
+- Evidence Request > Schemas [information](https://docs.cobre.com/information-11817874d0.md): 
+- Evidence Request > Schemas [evidence](https://docs.cobre.com/evidence-11817875d0.md): 
+- Evidence Request > Schemas [information_status](https://docs.cobre.com/information-status-11817876d0.md): 
+- Evidence Request > Schemas [document](https://docs.cobre.com/document-11817877d0.md): 
+- Evidence Request > Schemas [document_status](https://docs.cobre.com/document-status-11817878d0.md): 
+- Evidence Request > Schemas [headers](https://docs.cobre.com/headers-11817879d0.md): 
+- Evidence Request > RequestBodies [upload_intent_request](https://docs.cobre.com/upload-intent-request-11817880d0.md): 
+- Cross Border > Cross Border Money Movement [cross_border_money_movement_request](https://docs.cobre.com/cross-border-money-movement-create-request-11817881d0.md): 
+- Cross Border > Cross Border Money Movement [cross_border_money_movement_response](https://docs.cobre.com/cross-border-money-movement-create-response-11817882d0.md): 
+- Cross Border > Cross Border Money Movement [cross_border_money_movement_obtain_response](https://docs.cobre.com/cross-border-money-movement-obtain-response-11817883d0.md): 
+- Cross Border > Cross Border Money Movement [list_cross_border_money_movement](https://docs.cobre.com/cross-border-money-movements-list-all-items-11817884d0.md): 
+- Cross Border > FX Quote > FX Rolling Quote [fx_static_quote_response](https://docs.cobre.com/fx-quote-static-create-response-11817891d0.md): 
+- Cross Border > FX Quote > FX Rolling Quote [fx_static_quote_in_cross_border_response](https://docs.cobre.com/fx-quote-static-cross-border-response-11817890d0.md): 
+- Cross Border > FX Quote > FX Static Quote [fx_rolling_quote_response](https://docs.cobre.com/fx-quote-rolling-create-response-11817893d0.md): 
+- Cross Border > FX Quote > FX Static Quote [fx_rolling_quote_in_cross_border_response](https://docs.cobre.com/fx-quote-rolling-cross-border-response-11817892d0.md): 
+- Cross Border > FX Quote [fx_quote_request](https://docs.cobre.com/fx-quote-create-request-11817885d0.md): 
+- Cross Border > FX Quote [list_fx_quotes](https://docs.cobre.com/fx-quote-list-all-items-11817886d0.md): 
+- Cross Border > FX Quote [quote_tiers](https://docs.cobre.com/fx-quote-metadata-quote-tiers-11817887d0.md): 
+- Cross Border > FX Quote [penalization_tier](https://docs.cobre.com/fx-quote-metadata-penalization-tier-11817888d0.md): 
+- Cross Border > FX Quote [fees_breakdown](https://docs.cobre.com/fx-quote-metadata-fees-breakdown-11817889d0.md): 
+- Reports > Download [report_download_request](https://docs.cobre.com/report-download-create-request-11817900d0.md): 
+- Reports > Download [report_download_response](https://docs.cobre.com/report-download-create-response-11817901d0.md): 
+- Reports [create_report_request](https://docs.cobre.com/reports-create-request-11817894d0.md): 
+- Reports [report_create_response](https://docs.cobre.com/reports-create-response-11817895d0.md): 
+- Reports [report_create_metadata](https://docs.cobre.com/reports-create-metadata-11817896d0.md): 
+- Reports [list_of_reports](https://docs.cobre.com/reports-list-all-items-11817898d0.md): 
+- Reports [report_cobre_balance_statement_request](https://docs.cobre.com/cobre-balance-statement-request-11817897d0.md): 
+- Reports [report_cobre_balance_statement_response](https://docs.cobre.com/cobre-balance-statement-response-11817899d0.md): 
+- Error Model [error_model](https://docs.cobre.com/error-model-11817902d0.md): 
+- Report Scheduler [report_schedulers_request](https://docs.cobre.com/report-schedulers-create-request-11817903d0.md): 
+- Report Scheduler [deleter_report_schedulers_response](https://docs.cobre.com/report-schedulers-delete-response-11817904d0.md): 
+- Alerts [create_alert](https://docs.cobre.com/create-alert-13030565d0.md): 
+- Alerts [alert_object](https://docs.cobre.com/alert-object-13030695d0.md): 
+- Alerts [list_all_alerts](https://docs.cobre.com/list-all-alerts-13030714d0.md): 
+- Alerts [alert_metadata_type_fx_rate](https://docs.cobre.com/alert-metadata-type-fx-rate-13051512d0.md): 
+- Subclients [create_subclients_mexico](https://docs.cobre.com/subclients-create-request-mx-16195125d0.md): 
+- Subclients [create_subclient_mx_response](https://docs.cobre.com/subclients-create-response-mx-16500498d0.md): 

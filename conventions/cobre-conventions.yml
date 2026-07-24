@@ -1,0 +1,55 @@
+generated: '2026-07-18'
+method: searched
+source: https://docs.cobre.com/quick-start-1886551m0
+docs: https://docs.cobre.com/quick-start-1886551m0
+authentication:
+  style: bearer-jwt-from-token-exchange
+  detail: See authentication/cobre-authentication.yml
+  ref: authentication/cobre-authentication.yml
+idempotency:
+  supported: true
+  header: idempotency
+  scope: POST /v1/money_movements and POST /v1/cross_border_money_movements
+  required: true
+  min_length: 9
+  missing_behavior: HTTP 400 returned when the idempotency header is absent
+  replay_behavior: >-
+    Retrying with the same idempotency key returns the original Money Movement
+    (the original response) without re-executing the operation.
+  docs: https://docs.cobre.com/money-movement-1899651m0
+pagination:
+  style: page-based
+  response_fields:
+    - total_items
+    - total_pages
+    - is_last_page
+    - page_items
+    - page_size
+    - page_number
+    - contents
+  max_records: 10000
+  notes: It is not possible to paginate more than 10,000 records.
+rate_limiting:
+  steady_state_tps: 30
+  burst: 200
+  algorithm: token-bucket
+  refill_per_second: 30
+  over_limit_status: 429
+  ref: rate-limits/cobre-rate-limits.yml
+datetime:
+  timezone: UTC
+  format: ISO 8601 (e.g. 2023-07-15T12:00:00Z)
+  note: Colombia is UTC-5, Mexico City is UTC-6.
+error_envelope:
+  shape:
+    error_code: string (code from the error dictionary)
+    error_description: string (verbose description)
+  ref: errors/cobre-problem-types.yml
+versioning:
+  scheme: uri-path
+  current: v1
+  ref: lifecycle/cobre-lifecycle.yml
+webhooks:
+  supported: true
+  signature: HMAC-SHA256 (event-signature header, event-timestamp header)
+  ref: asyncapi/cobre-events-webhooks.yml

@@ -1,8 +1,30 @@
 aid: cobre
 name: Cobre
-description: 'Cobre is a company surfaced as a portfolio company of qed-investors and added to the API
-  Evangelist network as a stub for enrichment. Sector: fintech. This profile is a lead awaiting the enrichment
-  pipeline.'
+description: >-
+  Cobre is a Latin American B2B payments and treasury platform that gives
+  finance teams, fintechs, PSPs and banks a single API and portal to move money
+  in and out of Colombia and Mexico (and via Fedwire in the United States) and
+  across borders. Its modular products cover Local Payments (Bre-B, Fast Pay,
+  ACH and PSE in Colombia; SPEI and CLABEs in Mexico), Cross Border Payments
+  with FX quotes, Global Payouts in stablecoins, and Connect for centralizing
+  and reconciling bank accounts. The developer API is a REST platform (v1) with
+  bearer-JWT auth via a credential exchange, required idempotency on money
+  movements, page-based pagination, a 30 TPS rate limit, HMAC-signed webhook
+  notifications, and a full portal for maker-checker approvals, reconciliation
+  and reporting. Cobre is a QED Investors portfolio company.
+accessModel:
+  pricing: unknown
+  onboarding: self-serve
+  trial: false
+  try_now: false
+  public: false
+  label: Self-serve signup
+  confidence: medium
+  source:
+  - authentication
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/67e310fc26a7ea5ef01f179f/68517f73899598147cb51036_banner_site.avif
 url: https://raw.githubusercontent.com/api-evangelist/cobre/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,16 +34,105 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
 - Fintech
-apis: []
+- Payments
+- Treasury
+- Money Movement
+- Cross Border Payments
+- FX
+- Stablecoins
+- Banking
+- Latin America
+- Colombia
+- Mexico
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+apis:
+- name: Cobre Platform API
+  description: >-
+    Cobre's REST API (v1) for local and cross-border money movements, accounts
+    and balances, counterparties, Bre-B keys, FX quotes, stablecoin payouts,
+    reports/reconciliation and webhook subscriptions.
+  humanURL: https://docs.cobre.com/
+  baseURL: https://api.cobre.co
+  tags:
+  - Payments
+  - Money Movement
+  - Cross Border Payments
+  properties:
+  - type: Authentication
+    url: authentication/cobre-authentication.yml
+  - type: Conventions
+    url: conventions/cobre-conventions.yml
+  - type: Idempotency
+    url: conventions/cobre-conventions.yml
+  - type: RateLimits
+    url: rate-limits/cobre-rate-limits.yml
+  - type: ErrorCatalog
+    url: errors/cobre-problem-types.yml
+  - type: Webhooks
+    url: asyncapi/cobre-events-webhooks.yml
+  - type: AsyncAPI
+    url: asyncapi/cobre-events-asyncapi.yml
+  - type: DataModel
+    url: data-model/cobre-data-model.yml
+  - type: Sandbox
+    url: sandbox/cobre-sandbox.yml
 common:
+- type: DomainSecurity
+  url: security/cobre-domain-security.yml
 - type: Website
-  url: http://www.cobre.co
+  url: https://www.cobre.com/en-us
+- type: DeveloperPortal
+  url: https://docs.cobre.com/
+- type: Documentation
+  url: https://docs.cobre.com/get-started-1737317m0
+- type: APIReference
+  url: https://docs.cobre.com/quick-start-1886551m0
+- type: GettingStarted
+  url: https://docs.cobre.com/get-started-1737317m0
+- type: Authentication
+  url: authentication/cobre-authentication.yml
+- type: Support
+  url: https://docs.cobre.com/troubleshooting-support-1886537m0
+- type: Blog
+  url: https://www.cobre.com/blog
+- type: StatusPage
+  url: https://status.cobre.co/
+- type: LLMsTxt
+  url: llms/cobre-llms.txt
+- type: MCPServer
+  url: mcp/cobre-mcp.yml
+- type: Conventions
+  url: conventions/cobre-conventions.yml
+- type: Idempotency
+  url: conventions/cobre-conventions.yml
+- type: RateLimits
+  url: rate-limits/cobre-rate-limits.yml
+- type: ErrorCatalog
+  url: errors/cobre-problem-types.yml
+- type: Webhooks
+  url: asyncapi/cobre-events-webhooks.yml
+- type: AsyncAPI
+  url: asyncapi/cobre-events-asyncapi.yml
+- type: Lifecycle
+  url: lifecycle/cobre-lifecycle.yml
+- type: Sandbox
+  url: sandbox/cobre-sandbox.yml
+- type: Conformance
+  url: conformance/cobre-conformance.yml
+- type: Compliance
+  url: https://docs.cobre.com/security-at-cobre-1737320m0
+- type: DataModel
+  url: data-model/cobre-data-model.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

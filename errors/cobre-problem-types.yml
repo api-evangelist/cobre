@@ -1,0 +1,38 @@
+generated: '2026-07-18'
+method: searched
+source: https://docs.cobre.com/error-model-11817902d0
+docs: https://docs.cobre.com/error-model-11817902d0
+format: custom
+envelope:
+  error_code: string — code from the Cobre error dictionary
+  error_description: string — verbose, human-readable error description
+notes: >-
+  Cobre returns a custom error envelope (not RFC 9457 problem+json). Errors
+  carry a stable dictionary code plus a verbose description. Code prefixes map
+  to product/validation domains (AU = authentication, ACC = account, CP =
+  counterparty, G = general). The list below is the subset published in the
+  error-model reference and the testing-cases guide; the full dictionary is
+  maintained by Cobre.
+problems:
+  - error_code: G001
+    title: General error
+    description: General error. Please try again.
+    domain: general
+  - error_code: AU001
+    title: Authentication error
+    domain: authentication
+    source: https://docs.cobre.com/testing-cases-1886579m0
+  - error_code: AU004
+    title: Malformed authentication request body
+    description: >-
+      The authentication process failed as the request JSON body is malformed.
+      Please validate the JSON structure sent and try again.
+    domain: authentication
+  - error_code: ACC002
+    title: Account validation error
+    domain: account
+    source: https://docs.cobre.com/testing-cases-1886579m0
+  - error_code: CP001
+    title: Counterparty validation error
+    domain: counterparty
+    source: https://docs.cobre.com/testing-cases-1886579m0

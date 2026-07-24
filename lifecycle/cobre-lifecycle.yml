@@ -1,0 +1,17 @@
+generated: '2026-07-18'
+method: searched
+source: https://docs.cobre.com/quick-start-1886551m0
+versioning:
+  scheme: uri-path
+  current: v1
+  docs: https://docs.cobre.com/quick-start-1886551m0
+status_page: https://status.cobre.co/
+sla:
+  notes: >-
+    Cobre publishes real-time and historical service status on its status page
+    (Bre-B, PSE/Bancolombia payins, etc.). No numeric uptime SLA target was
+    found published in the public developer docs.
+deprecation:
+  policy_url: null
+  sunset_header: null
+  notes: No formal deprecation / Sunset-header policy found in the public docs.

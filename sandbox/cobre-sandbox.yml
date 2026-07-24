@@ -1,0 +1,34 @@
+generated: '2026-07-18'
+method: searched
+source: https://docs.cobre.com/general-testing-1886578m0
+docs: https://docs.cobre.com/general-testing-1886578m0
+environments:
+  test:
+    name: QA / Sandbox
+    base_url: https://api.qa.cobre.co
+    credentials: >-
+      Request QA credentials (client_id and client_secret) from your Account
+      Manager. QA and production use distinct credential sets.
+  live:
+    name: Production
+    base_url: https://api.cobre.co
+test_values:
+  - context: Payout testing (counterparty financial institution)
+    field: financial_institution
+    value: '1007'
+    note: '1007 is the only available financial institution option in QA for payouts.'
+availability_in_qa:
+  colombia: true
+  checkout_colombia: true
+  notifications: true
+  mexico: false
+  connect_account: false
+  account_verification: false
+  cobre_keys: false
+  cross_border: false
+  evidence: false
+notes: >-
+  QA is credential-separated from production (no key-prefix scheme documented).
+  Testing-cases documents validation scenarios keyed to error codes (AU001,
+  ACC002, CP001, ...) rather than magic amounts. Webhook consumption is a QA
+  validation requirement. No published test card numbers or magic amounts.

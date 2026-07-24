@@ -1,0 +1,74 @@
+generated: '2026-07-18'
+method: searched
+source: https://docs.cobre.com/llms.txt
+docs: https://docs.cobre.com/
+notes: >-
+  Entity graph derived from Cobre's published API reference object catalog and
+  guides (no downloadable OpenAPI was available; relationships are read from the
+  documented request/response fields). id-prefixes are illustrative where the
+  docs did not publish a fixed prefix.
+entities:
+  - name: account
+    description: A Cobre account / balance holder (source of funds).
+  - name: balance
+    description: A balance held on an account (e.g. cobre_balance, checking, saving); Cobre Balances are CLABE-backed in MX.
+  - name: counterparty
+    description: A verified payee/recipient a money movement can be destined to.
+  - name: money_movement
+    description: A single local payout/payin (Fast Pay, ACH, Bre-B, SPEI, Fedwire).
+  - name: bulk_money_movement
+    description: A batch of money movements processed together.
+  - name: cross_border_money_movement
+    description: A cross-border/multi-currency movement, backed by an FX quote.
+  - name: fx_quote
+    description: A foreign-exchange quote (static or rolling) used by cross-border movements.
+  - name: cobre_key
+    description: A Bre-B key (payment key) for Colombian payins.
+  - name: subscription
+    description: A webhook subscription binding event types to a destination URL.
+  - name: report
+    description: A generated reconciliation/statement report.
+  - name: report_scheduler
+    description: A schedule that generates reports periodically.
+  - name: alert
+    description: An FX-rate alert.
+  - name: transfer_account
+    description: A transfer-in (account reference) for receiving payins.
+  - name: virtual_clabe
+    description: A virtual CLABE account reference (Mexico payins).
+  - name: subclient
+    description: A sub-client account (Mexico named accounts / white-label).
+relationships:
+  - from: money_movement
+    to: account
+    type: belongs_to
+    via: source
+  - from: money_movement
+    to: counterparty
+    type: belongs_to
+    via: destination
+    note: destination may reference a counterparty_id or an account_id
+  - from: money_movement
+    to: balance
+    type: belongs_to
+    via: source (balance type — cobre_balance | checking | saving)
+  - from: bulk_money_movement
+    to: money_movement
+    type: has_many
+  - from: cross_border_money_movement
+    to: fx_quote
+    type: belongs_to
+    via: fx_quote
+  - from: subscription
+    to: account
+    type: belongs_to
+    via: events (account-scoped event stream)
+  - from: cobre_key
+    to: account
+    type: belongs_to
+  - from: transfer_account
+    to: account
+    type: belongs_to
+  - from: virtual_clabe
+    to: balance
+    type: belongs_to

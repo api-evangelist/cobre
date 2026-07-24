@@ -1,0 +1,74 @@
+generated: '2026-07-18'
+method: searched
+source: https://docs.cobre.com/notifications-subscriptions-1886572m0
+docs: https://docs.cobre.com/notifications-subscriptions-1886572m0
+spec_type: Webhooks
+subscription:
+  create_endpoint: POST /v1/subscriptions
+  request_fields: [events, url, description, signature_key]
+  response_fields: [id, events, url, created_at]
+delivery:
+  envelope:
+    id: string (ev_xxxxx)
+    event_key: string (the event type, e.g. accounts.balance.credit)
+    created_at: string (ISO 8601 UTC)
+    content: object (event-specific payload)
+  signature:
+    algorithm: HMAC-SHA256
+    headers:
+      event-timestamp: UTC event creation time
+      event-signature: HMAC-SHA256 hash
+    verification: >-
+      Concatenate event-timestamp + "." + raw_body (no spaces or line breaks),
+      compute HMAC-SHA256 with the event_signature_key, and compare against the
+      event-signature header. Inputs are UTF-8 encoded.
+  retries:
+    attempts: 3
+    intervals_ms: [200, 400, 1000]
+    condition: connection errors only; no retries on 4xx responses
+events:
+  accounts:
+    - accounts.balance.credit
+    - accounts.balance.debit
+    - accounts.linked_wallets.created
+  cobre_keys:
+    - cobre_keys.status.processing
+    - cobre_keys.status.registered
+    - cobre_keys.status.unregistered
+    - cobre_keys.status.disabled
+    - cobre_keys.status.failed
+  counterparties:
+    - counterparty.status.processing
+    - counterparty.status.verified
+    - counterparty.status.failed
+  money_movements:
+    - money_movements.status.initiated
+    - money_movements.status.processing
+    - money_movements.status.pending_approval
+    - money_movements.status.completed
+    - money_movements.status.canceled
+    - money_movements.status.returned
+    - money_movements.status.rejected
+    - money_movements.status.failed
+  bulk_money_movements:
+    - bulk_money_movements.status.validating
+    - bulk_money_movements.status.processing
+    - bulk_money_movements.status.pending_approval
+    - bulk_money_movements.status.completed
+    - bulk_money_movements.status.canceled
+    - bulk_money_movements.status.failed
+  cross_border_money_movements:
+    - cross_border_money_movements.status.initiated
+    - cross_border_money_movements.status.processing
+    - cross_border_money_movements.status.completed
+    - cross_border_money_movements.status.rejected
+  evidence_requests:
+    - evidence-request.ask
+  fx_rate_alerts:
+    - alerts.fx_rate.triggered
+  reports:
+    - reports.created
+  account_references:
+    - transfer_acc.status.enabled
+    - transfer_acc.status.processing
+    - transfer_acc.status.failed
