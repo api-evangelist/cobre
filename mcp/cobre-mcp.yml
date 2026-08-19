@@ -10,22 +10,19 @@ server:
   install: npx -y apidog-mcp-server@latest --site-id=760877
   site_id: '760877'
   auth: none (public documentation data source)
-  config_example: |
-    {
-      "mcpServers": {
-        "Cobre - API Documentation": {
-          "command": "npx",
-          "args": ["-y", "apidog-mcp-server@latest", "--site-id=760877"]
-        }
-      }
-    }
+  config_example: "{\n  \"mcpServers\": {\n    \"Cobre - API Documentation\": {\n      \"command\": \"\
+    npx\",\n      \"args\": [\"-y\", \"apidog-mcp-server@latest\", \"--site-id=760877\"]\n    }\n  }\n\
+    }\n"
 capabilities:
-  - Fetch endpoint details and parameter schemas from Cobre's published docs
-  - Generate code, DTOs and models grounded in the Cobre OpenAPI
-  - Retrieve field-level documentation
-  - Search endpoints across the spec
-notes: >-
-  This is a documentation MCP server (the docs are AI-ready via Apidog); it
-  serves Cobre's published API documentation as MCP resources for IDE/agent
-  use. It is not a hosted, transactional MCP server that executes Cobre API
-  operations. Cobre also publishes an llms.txt at https://docs.cobre.com/llms.txt.
+- Fetch endpoint details and parameter schemas from Cobre's published docs
+- Generate code, DTOs and models grounded in the Cobre OpenAPI
+- Retrieve field-level documentation
+- Search endpoints across the spec
+notes: This is a documentation MCP server (the docs are AI-ready via Apidog); it serves Cobre's published
+  API documentation as MCP resources for IDE/agent use. It is not a hosted, transactional MCP server that
+  executes Cobre API operations. Cobre also publishes an llms.txt at https://docs.cobre.com/llms.txt.
+deployment:
+  mode: local-stdio
+  verified: searched
+  checked: '2026-08-12'
+  source: catalog MCP census
