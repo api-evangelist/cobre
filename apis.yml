@@ -41,6 +41,19 @@ tags:
 - Payments
 - Treasury
 - Money Movement
+- Cross-Border Payments
+- FX
+- Stablecoins
+- Banking
+- Latin America
+- Colombia
+- Mexico
+tags_raw:
+- Company
+- Fintech
+- Payments
+- Treasury
+- Money Movement
 - Cross Border Payments
 - FX
 - Stablecoins
@@ -62,6 +75,10 @@ apis:
   humanURL: https://docs.cobre.com/
   baseURL: https://api.cobre.co
   tags:
+  - Payments
+  - Money Movement
+  - Cross-Border Payments
+  tags_raw:
   - Payments
   - Money Movement
   - Cross Border Payments
