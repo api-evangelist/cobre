@@ -12,6 +12,17 @@ description: >-
   movements, page-based pagination, a 30 TPS rate limit, HMAC-signed webhook
   notifications, and a full portal for maker-checker approvals, reconciliation
   and reporting. Cobre is a QED Investors portfolio company.
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: self-serve
