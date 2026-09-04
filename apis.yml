@@ -25,15 +25,18 @@ deliveryModel:
   method: derived
 accessModel:
   pricing: unknown
-  onboarding: self-serve
+  onboarding: unknown
   trial: false
   try_now: false
   public: false
-  label: Self-serve signup
-  confidence: medium
+  label: Unknown
+  confidence: low
   source:
   - authentication
-  generated: '2026-07-22'
+  - rate-limits
+  - security
+  - sandbox
+  generated: '2026-09-03'
   method: derived
 image: https://cdn.prod.website-files.com/67e310fc26a7ea5ef01f179f/68517f73899598147cb51036_banner_site.avif
 url: https://raw.githubusercontent.com/api-evangelist/cobre/refs/heads/main/apis.yml
