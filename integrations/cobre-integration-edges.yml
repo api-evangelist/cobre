@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/cobre/integrations
+- https://n8n.io/integrations/cobre/
+- https://composio.dev/toolkits/cobre
+- https://monid.ai/tools/cobre
+checked:
+- https://composio.dev/toolkits/cobre
+- https://monid.ai/tools/cobre
+- https://n8n.io/integrations/cobre/
+- https://zapier.com/apps/cobre/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
